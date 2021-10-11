@@ -32,3 +32,47 @@ One of the most important functions that you will need to use as you work with f
 1.Data Redundancy:. It is possible that the same information may be duplicated in different files.this leads to data redundancy results in memory wastage.  
 2.Data Inconsistency:. Because of data redundancy,it is possible that data may not be in consistent state.  
 3.Difficulty in Accessing Data:. Accessing data is not convenient and efficient in file processing system.  
+
+## Strength
+
+1.Reusability  
+2.Large storage capacity
+3.Time consumption
+4.Portability
+
+## Weakness
+
+1.Data Redundancy
+2.Data Inconsistency
+3.Difficulty in Accessing Data
+
+## Opportunities
+
+## fgetc:
+It is used to read single character from the file.
+
+## fputc:
+It is used to write a single character in the file.
+
+## fputw:
+It is used to write an integer in the file.
+
+## fgetw:
+It is used to read an integer from the file.
+
+## fscanf:
+It is used to read formatted data (like integer, char, float etc) from the file.
+
+## fprintf:
+It is used to write formatted data (like integer, char, float etc) in the file.
+
+ ## fwrite:
+It is used to write mixed data (structure) in the file.
+
+## fread:
+It is used to read mixed data (structure) from the file.
+
+## Threats
+
+1.All variables used in a program are kept in the main memory and they are volatile, i.e., their values are lost when the program ends.
+2.Even if you write a program running forever, your data will be lost in case of a shutdown or a power failure.
