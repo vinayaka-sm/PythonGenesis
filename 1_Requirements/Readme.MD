@@ -76,3 +76,4 @@ It is used to read mixed data (structure) from the file.
 
 1.All variables used in a program are kept in the main memory and they are volatile, i.e., their values are lost when the program ends.
 2.Even if you write a program running forever, your data will be lost in case of a shutdown or a power failure.
+
