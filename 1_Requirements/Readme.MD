@@ -15,3 +15,20 @@ How to delete files.
 How to work with context managers and why they are useful.
 How to handle exceptions that could be raised when you work with files.
 and more!
+
+## Objective 
+
+One of the most important functions that you will need to use as you work with files in Python is open(),write(),and append() ,a built-in function that open,write, and append a file and allows your program to use it and work with it.
+
+## Advantage 
+
+1.Reusability: It helps in preserving the data or information generated after running the program.   
+2.Large storage capacity: Using files, you need not worry about the problem of storing data in bulk.   
+3.Saves time: There are certain programs that require a lot of input from the user. You can easily access any part of the code with the help of certain commands.   
+4.Portability: You can easily transfer the contents of a file from one computer system to another without having to worry about the loss of data.   
+
+## Disadvantages
+
+1.Data Redundancy:. It is possible that the same information may be duplicated in different files.this leads to data redundancy results in memory wastage.  
+2.Data Inconsistency:. Because of data redundancy,it is possible that data may not be in consistent state.  
+3.Difficulty in Accessing Data:. Accessing data is not convenient and efficient in file processing system.  
