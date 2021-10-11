@@ -28,7 +28,9 @@ class Demo:
 				k=k+1
 		print(key,k)
 		return k
+'''
 obj=Demo() 
 x= int(input("ENTER total number of words to search"))  
 for i in range(x):
 	obj.process_file(input("enter a word to search:"))
+'''
